@@ -1,0 +1,10 @@
+{
+  "name": "blindify",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Blindify — le blind test musical ultime",
+  "scripts": {
+    "start": "node serve.mjs",
+    "check": "node --check app.js"
+  }
+}
